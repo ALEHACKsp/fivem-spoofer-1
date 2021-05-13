@@ -20,7 +20,6 @@ timeout 3 >nul
 echo.
 echo [32m[] Loaded Rooms[0m
 timeout 2 >nul
-start https://vacban.wtf/members/16392/
 goto MENU
 
 :MENU
